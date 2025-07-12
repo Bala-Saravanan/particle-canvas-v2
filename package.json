@@ -1,0 +1,24 @@
+{
+  "name": "@balasaravanan/particle-canvas-v2",
+  "version": "1.0.0",
+  "description": "An Interactive Particle Background for your modern web projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0 <20.0.0",
+    "react-dom": ">=18.0.0 <20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bala-Saravanan/particle-canvas-v2.git"
+  },
+  "author": "Bala Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bala-Saravanan/particle-canvas-v2/issues"
+  },
+  "homepage": "https://github.com/Bala-Saravanan/particle-canvas-v2#readme"
+}
