@@ -1,10 +1,10 @@
 {
   "name": "@balasaravanan/particle-canvas-v2",
-  "version": "1.1.0",
+  "version": "1.1.5",
   "description": "An Interactive Particle Background for your modern web projects",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "type": "module",
+  "type": "commonjs",
   "files": [
     "dist"
   ],

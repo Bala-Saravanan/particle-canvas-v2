@@ -1,3 +1,5 @@
+import React from "react";
+
 import ParticlesCanvas from "./particle-canvas";
 import { useEffect, useRef } from "react";
 import "./index.css";
